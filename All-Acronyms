@@ -1,4 +1,3 @@
-
 ACIPA = American Institute of Certified Public Accountants
 ACL = Access Control List
 AI = Artificial Intelligence
@@ -18,6 +17,8 @@ CSO = Chief Security Officer
 CSP = Cloud Service Provider
 CTI = Cyber Threat Intelligence 
 DevOps = Development and Operations
+DHS = Department of Homeland Security
+DoD = Department of Defense
 FIPS = Federal Information Processing Standards
 FISMA = Federal Information Security Management Act
 GDPR = General Data Protection Regulation
@@ -45,5 +46,6 @@ SOX = Sarbanes-Oxley Act
 SSAE = Statements on Standards for Attestation Engagement
 STIGs = Security Technical Implementation Guides
 STIX = Structured Threat Information eXpression
+TAXII = Trusted Automated eXchange of Indicator Information
 TOR = The Onion Router
 TTP = Tactic, Technique, or Procedure
